@@ -1,0 +1,2 @@
+<h2>平台列表</h2>
+<a href="https://www.vector.co.jp/">vector.co.jp</a>
